@@ -22,4 +22,5 @@
 git clone https://github.com/BZ6/winter25/
 cd winter25
 gcc -o main.exe main.c -I 'C:\Program Files (x86)\AMD APP SDK\2.9-1\include' -L 'C:\Program Files (x86)\AMD APP SDK\2.9-1\lib\x86_64' -l OpenCL
+./main.exe
 ```

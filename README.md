@@ -24,3 +24,7 @@ cd winter25
 gcc -o main.exe main.c -I 'C:\Program Files (x86)\AMD APP SDK\2.9-1\include' -L 'C:\Program Files (x86)\AMD APP SDK\2.9-1\lib\x86_64' -l OpenCL
 ./main.exe
 ```
+
+## Вывод программы
+
+![image](https://github.com/user-attachments/assets/70659d9e-02f9-4518-8f00-fff43a009588)
